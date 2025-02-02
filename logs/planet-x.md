@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: Log 1 - Planet X
+title: Planet X
 date: 2025-01-30
 permalink: /logs/planet-x/
 ---

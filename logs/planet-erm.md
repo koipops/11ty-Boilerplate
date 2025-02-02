@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: Log 1 - Planet Erm
+title: Planet Erm
 date: 3099-01-30
 permalink: /logs/planet-erm/
 ---

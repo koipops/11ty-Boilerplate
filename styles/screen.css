@@ -48,3 +48,70 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    line-height: 1.6;
+}
+
+body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    padding: 15px 0;
+    font-size: 1.5em;
+}
+
+nav a {
+    color: #00BFFF;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #FFD700;
+}
+
+ul li a {
+    display: block;
+    padding: 10px;
+    background-color: #444;
+    color: white;
+    margin: 10px 0;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+ul li a:hover {
+    background-color: #666;
+}
+
+footer {
+    background-color: #333;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    text-align: justify;
+} 
